@@ -1,0 +1,28 @@
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# Java build
+target/
+build/
+out/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env / secrets
+.env
+.env.*
+application-local.properties
+application-secret.properties
+
+# Node (if exists)
+**/node_modules/
